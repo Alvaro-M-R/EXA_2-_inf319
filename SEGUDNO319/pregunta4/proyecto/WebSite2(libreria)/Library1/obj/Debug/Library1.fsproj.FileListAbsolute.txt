@@ -1,0 +1,9 @@
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\Library1.XML
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\Library1.dll
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\Library1.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\FSharp.Core.dll
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\FSharp.Core.xml
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\obj\Debug\Library1.fsprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\obj\Debug\Library1.dll
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\WebSite2\Library1\obj\Debug\Library1.pdb
